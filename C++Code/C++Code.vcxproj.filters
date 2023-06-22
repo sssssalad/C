@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\LUOGU">
+      <UniqueIdentifier>{4a515a61-5029-4de9-85b5-e37f3c57bf7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\算法">
+      <UniqueIdentifier>{f2622a64-e1c3-43b6-becd-d58f2eaf9332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门">
+      <UniqueIdentifier>{318efeaf-51a9-43c3-9a21-7dcd11467621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Lanqiao">
+      <UniqueIdentifier>{21b910ae-2825-44c3-8eef-4083b51e372d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\STL">
+      <UniqueIdentifier>{ed81d17e-8a4f-42aa-b248-2a2d8c412f18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\打表">
+      <UniqueIdentifier>{27e0a6b5-ac6e-4647-b890-0654884c06aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\递归">
+      <UniqueIdentifier>{b0f81d63-c347-427e-aa0d-456f680809a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\回文">
+      <UniqueIdentifier>{101def8a-6edb-4814-b694-3c27a5392090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\数论">
+      <UniqueIdentifier>{07d20f7a-f14a-4204-95dc-4ffa34256b2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\数组">
+      <UniqueIdentifier>{9a94852c-4c5d-4d54-8bd4-6842fbc1823b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\循环">
+      <UniqueIdentifier>{e4a9d651-3bcd-43ab-97fb-90e30e5296c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\字符串">
+      <UniqueIdentifier>{75a8082a-88ea-4c60-a469-0315fe9bbfbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\算法\分治">
+      <UniqueIdentifier>{89440f64-5ef7-49a3-94bc-9ac7745c7645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\算法\高精度">
+      <UniqueIdentifier>{1c5e05c1-1ce5-4138-9c9e-6ecc548c85d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\算法\模拟">
+      <UniqueIdentifier>{bfeccd62-80e8-438a-bccd-92c4566dffe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\算法\图论">
+      <UniqueIdentifier>{bf7dbda9-6a9f-410d-8006-958ee45acf13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\算法\质数筛">
+      <UniqueIdentifier>{95e0e6e0-f171-4590-b27d-6af9d065b5bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer plus">
+      <UniqueIdentifier>{8f1af00d-df50-43aa-9331-cce64441f5b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\面试题">
+      <UniqueIdentifier>{b1a4f9eb-06ee-47ae-a822-e25c3dd07e8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\STL\对象">
+      <UniqueIdentifier>{9f957966-04c8-4df7-a3df-6a3e6a658c42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LUOGU\入门\cin_cout">
+      <UniqueIdentifier>{2090337d-cb71-43ff-b229-25e9a59d0c0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Lanqiao\2021">
+      <UniqueIdentifier>{48dfcbc8-9ea2-4f14-a995-8f0703bb786f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Lanqiao\2022">
+      <UniqueIdentifier>{6f3b4b72-828d-4324-b125-c4ebc7ff6526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Lanqiao\2022_mtest">
+      <UniqueIdentifier>{f13ce359-0f0e-40a7-851f-0a36af19cba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Lanqiao\小模板">
+      <UniqueIdentifier>{23be6c7c-1162-4c3b-a199-f9a90155d3ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer plus\2">
+      <UniqueIdentifier>{d97f93c1-61d0-4f42-a285-2fd077444bd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer plus\3">
+      <UniqueIdentifier>{9ac0f2e7-8479-45de-bcd2-fe7b9435792c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\C++ Primer plus\4">
+      <UniqueIdentifier>{4a1e40a0-b2d0-403e-928e-cc7c7ed2a51b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C++Code.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Code\LUOGU\入门\STL\Queue.cpp">
+      <Filter>源文件\LUOGU\入门\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\STL\Set.cpp">
+      <Filter>源文件\LUOGU\入门\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\STL\Stack.cpp">
+      <Filter>源文件\LUOGU\入门\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\STL\Vector.cpp">
+      <Filter>源文件\LUOGU\入门\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\STL\源1.cpp">
+      <Filter>源文件\LUOGU\入门\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\STL\对象\pair.cpp">
+      <Filter>源文件\LUOGU\入门\STL\对象</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\cin_cout\P5707 ceil.cpp">
+      <Filter>源文件\LUOGU\入门\cin_cout</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\cin_cout\P5725 流填充.cpp">
+      <Filter>源文件\LUOGU\入门\cin_cout</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\打表\P1603 strcmp.cpp">
+      <Filter>源文件\LUOGU\入门\打表</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\打表\P5730 简便打表.cpp">
+      <Filter>源文件\LUOGU\入门\打表</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\打表\P5730 显示屏.cpp">
+      <Filter>源文件\LUOGU\入门\打表</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\递归\P5461 矩阵赋值.cpp">
+      <Filter>源文件\LUOGU\入门\递归</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\递归\P5729 递归求阶乘.cpp">
+      <Filter>源文件\LUOGU\入门\递归</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\回文\P3383 回文+质数判断.cpp">
+      <Filter>源文件\LUOGU\入门\回文</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\回文\P3383 回文质数暴力.cpp">
+      <Filter>源文件\LUOGU\入门\回文</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\回文\求倒数.cpp">
+      <Filter>源文件\LUOGU\入门\回文</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\数论\P720 斐波那契数列.cpp">
+      <Filter>源文件\LUOGU\入门\数论</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\数组\P614 数组和极值.cpp">
+      <Filter>源文件\LUOGU\入门\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\数组\P2141 活用数组下标.cpp">
+      <Filter>源文件\LUOGU\入门\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\数组\P5724 数组极值.cpp">
+      <Filter>源文件\LUOGU\入门\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P1008 构建数.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P1205 多条件判断+旋转.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P1319 循环cin直接cout.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P1320 分批cin+越位.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P1420 while+++.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P1980 计数while循环.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P2415 while(cin)+子集.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P2669 循环.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\循环\P5726 while.cpp">
+      <Filter>源文件\LUOGU\入门\循环</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P1125 数组转换.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P1308 getline+空格.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P1321 or+重复赋值.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P1553 边界值.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P1597 ==.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P1957 string+int+cin.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P3741 赋值.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\入门\字符串\P5734 substr.cpp">
+      <Filter>源文件\LUOGU\入门\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\分治\P1498 生成图腾.cpp">
+      <Filter>源文件\LUOGU\算法\分治</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P1009 阶乘和.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P1045 快速幂+高精×.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P1255 方法数.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P1303 高精×.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P1601 高精+.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P1604 高精＋变体.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\高精度\P2142 高精-.cpp">
+      <Filter>源文件\LUOGU\算法\高精度</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\模拟\P1042 乒乓球.cpp">
+      <Filter>源文件\LUOGU\算法\模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\模拟\P1563 玩具小人.cpp">
+      <Filter>源文件\LUOGU\算法\模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\模拟\P2670 扫雷.cpp">
+      <Filter>源文件\LUOGU\算法\模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\模拟\P4924 矩阵旋转.cpp">
+      <Filter>源文件\LUOGU\算法\模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\图论\BFS+queue.cpp">
+      <Filter>源文件\LUOGU\算法\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\图论\DFS+stack.cpp">
+      <Filter>源文件\LUOGU\算法\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\图论\DFS+递归.cpp">
+      <Filter>源文件\LUOGU\算法\图论</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\质数筛\P1304 活用性质.cpp">
+      <Filter>源文件\LUOGU\算法\质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\质数筛\P5723 埃筛.cpp">
+      <Filter>源文件\LUOGU\算法\质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\质数筛\埃筛 求质数.cpp">
+      <Filter>源文件\LUOGU\算法\质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\质数筛\暴力判断质数.cpp">
+      <Filter>源文件\LUOGU\算法\质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\算法\质数筛\欧拉筛 求质数.cpp">
+      <Filter>源文件\LUOGU\算法\质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\P1149 火柴棒等式.cpp">
+      <Filter>源文件\LUOGU</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\P1888 最大公约数.cpp">
+      <Filter>源文件\LUOGU</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\P5732 自增自减.cpp">
+      <Filter>源文件\LUOGU</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LUOGU\P5742 struct成员函数.cpp">
+      <Filter>源文件\LUOGU</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2021\B.cpp">
+      <Filter>源文件\Lanqiao\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2021\C.cpp">
+      <Filter>源文件\Lanqiao\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2021\F.cpp">
+      <Filter>源文件\Lanqiao\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2021\G_.cpp">
+      <Filter>源文件\Lanqiao\2021</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\A.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\C.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\D.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\E.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\F.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\G.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\H.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\I.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022\J.cpp">
+      <Filter>源文件\Lanqiao\2022</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\2022_mock_test\源.cpp">
+      <Filter>源文件\Lanqiao\2022_mtest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\小模板\DFS.cpp">
+      <Filter>源文件\Lanqiao\小模板</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\小模板\word.cpp">
+      <Filter>源文件\Lanqiao\小模板</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\小模板\排序.cpp">
+      <Filter>源文件\Lanqiao\小模板</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\小模板\闰年.cpp">
+      <Filter>源文件\Lanqiao\小模板</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\LQ\小模板\素数.cpp">
+      <Filter>源文件\Lanqiao\小模板</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.1 myfirst.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.2 carrots.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.3 getinfo.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.4 sqrt.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.5 ourfunc.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.6 convert.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.7.3.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.7.4.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\2.7.5.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\carrots.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 2\myfirst.cpp">
+      <Filter>源文件\C++ Primer plus\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\_1.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\_2.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\_4.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\_5.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\_6.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.1 limits.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.2 exceed.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.3 hexoct1.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.4 hexoct2.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.5 chartype.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.6 morechar.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.7 bondini.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.8 floatnum.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.9 fltadd.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.10 arith.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.11 divide.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.12 modulus.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.13 assign.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\3.14 typecast.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 3\setprecision.cpp">
+      <Filter>源文件\C++ Primer plus\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.1 arrayone.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.2 strings.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.3 instr1.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.4 instr2.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.5 instr3.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.6 numstr.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.7 strtype1.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.8 strtype +.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.9 str func.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.10 strtype4.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.11 structur.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.12 assgn_st.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.12.2 union.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.12.3 enum.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.13 arrstruct.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.13.2 arrunion.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\4.14 address.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\addpntrs.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\arraynew.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\choices.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\delete.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\init_ptr.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\mixtypes.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\newstrct.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\pointer.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\ptrstr.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Code\c++_primer_plus\Chapter 4\use_new.cpp">
+      <Filter>源文件\C++ Primer plus\4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Code\resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

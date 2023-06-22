@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-memb_pt",
+      "appliesTo": "C-Code/c++_primer_plus/Appendix E/memb_pt.cpp",
+      "type": "launch"
+    }
+  ]
+}
