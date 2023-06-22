@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\2">
+      <UniqueIdentifier>{df345c6b-114c-4246-9ef5-8047ffac8f8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3">
+      <UniqueIdentifier>{c697d645-3ce0-43d0-82af-9481a5314eec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4">
+      <UniqueIdentifier>{70836077-fafa-49ce-8c7e-009137d7042c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\5">
+      <UniqueIdentifier>{1691fd1c-542e-44a7-be66-676ffde85450}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6">
+      <UniqueIdentifier>{453de4f7-4815-4358-bc7c-ccbcbb979c2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\7">
+      <UniqueIdentifier>{953e075c-1aa9-4379-9cd1-74b2f96c338b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\8">
+      <UniqueIdentifier>{bab7eb6e-3c07-4c29-ad2c-d07e3aac7df6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\9">
+      <UniqueIdentifier>{4922d6b3-cf1e-4edf-8b40-892bfc3307da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\10">
+      <UniqueIdentifier>{161b50ba-e7a5-4a5e-8737-c95c41150e7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\11">
+      <UniqueIdentifier>{19c2377c-4c80-4a57-89f6-43515ecf51f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\12">
+      <UniqueIdentifier>{1d7c7749-513f-4881-bf8b-1c01f8f44350}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\13">
+      <UniqueIdentifier>{0678c768-9c82-4766-841e-dcaf1ebf96dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\14">
+      <UniqueIdentifier>{bb556232-daf9-45d0-8a8e-542ea7c88f0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\15">
+      <UniqueIdentifier>{04b75dc4-59d2-4d63-b717-fd7157e7577b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\16">
+      <UniqueIdentifier>{edfa44b3-c1ed-43c5-982a-df8c481a738b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\17">
+      <UniqueIdentifier>{0520340a-cc86-4344-bcee-157778773466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\18">
+      <UniqueIdentifier>{445c9ff6-89a8-4224-9a39-1299bb75fb82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\E">
+      <UniqueIdentifier>{ed34e593-2cb1-4281-9152-34e79667f80e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\G">
+      <UniqueIdentifier>{02632736-54aa-4cc4-ba00-ca92a77684c6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Chapter 2\2.1 myfirst.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 2\2.2 carrots.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 2\2.7.4.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 2\2.7.5.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\2.3 getinfo.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\2.4 sqrt.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\2.5 ourfunc.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\2.6 convert.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\2.7.3.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\carrots.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 2\myfirst.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.1 limits.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.2 exceed.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.3 hexoct1.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.4 hexoct2.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.5 chartype.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.6 morechar.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.7 bondini.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.8 floatnum.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.9 fltadd.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.10 arith.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.11 divide.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.12 modulus.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.13 assign.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\3.14 typecast.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 3\setprecision.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 3\3\_1.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 3\3\_2.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 3\3\_4.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 3\3\_5.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Chapter 3\3\_6.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.1 arrayone.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.2 strings.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.3 instr1.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.4 instr2.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.5 instr3.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.6 numstr.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.7 strtype1.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.8 strtype +.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.9 str func.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.10 strtype4.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.11 structur.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.12 assgn_st.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.13 arrstruct.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\4.14 address.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\addpntrs.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\arraynew.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\choices.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\delete.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\init_ptr.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\mixtypes.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\newstrct.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\pointer.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\ptrstr.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 4\use_new.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\bigstep.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\block.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\compstr1.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\compstr2.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\dowhile.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\equal.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\express.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\forloop.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\formore.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\forstr1.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\forstr2.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\nested.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\nestedcl.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\num_test.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\plus_one.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\textin1.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\textin2.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\textin3.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\textin4.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\waiting.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 5\while.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\and.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\cctypes.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\cinfish.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\cingolf.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\condit.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\enum.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\if.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\ifelse.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\ifelseif.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\jump.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\more_and.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\not.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\or.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\outfile.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\sumafile.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 6\switch.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arfupt.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arfupt1.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arrfun1.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arrfun2.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arrfun3.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arrfun4.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\arrobj.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\calling.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\fun_ptr.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\lotto.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\protos.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\recur.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\ruler.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\strctptr.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\strgback.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\strgfun.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\structfun.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\topfive.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\travel.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 7\twoarg.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\arrtemp.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\choices.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\cubes.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\filefunct.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\firstref.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\funtemp.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\inline.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\left.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\leftover.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\secref.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\strc_ref.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\strquote.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\strtref.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\swaps.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\tempover.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\twoswap.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 8\twotemps.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\autoscp.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\external.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\file1.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\file2.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\namesp.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\newplace.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\static.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\support.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\twofile1.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\twofile2.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\D\学习\c++\C++PrimerPlus源代码\Chapter 9\usenmsp.cpp">
+      <Filter>源文件\9</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
